@@ -9,5 +9,5 @@ For content changes, make sure that you:
 - [ ] Review the content for technical accuracy.
 - [ ] Review the entire pull request using the [translations guide for writers](./translations-for-writers.md).
 - [ ] Copy-edit the changes for grammar, spelling, and adherence to the [style guide](https://github.com/github/docs/blob/main/contributing/content-style-guide.md).
-- [ ] Check new or updated Liquid statements to confirm that versioning is correct.
+- [ ] Check new or updated Liquid statements to confirm that versioning is correct.juan felix pena jr
 - [ ] If there are any failing checks in your PR, troubleshoot them until they're all passing.
